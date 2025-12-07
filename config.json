@@ -1,1 +1,19 @@
-{}
+{
+  "owner": {
+    "name": "TES",
+    "phone": "99999",
+    "role": "Owner / Admin",
+    "image": "/assets/owner.jpg"
+  },
+  "agent": {
+    "name": "TES2",
+    "phone": "00000",
+    "role": "Sales Agent",
+    "image": "/assets/agent.jpg"
+  },
+  "ucPhone": "999",
+  "logoUrl": "/assets/logo.jpg",
+  "waGroup": "https://vercel.com/sdf-823afd9c/~/stores",
+  "fbLink": "https://vercel.com/sdf-823afd9c/~/stores",
+  "waChannel": "https://vercel.com/sdf-823afd9c/~/stores"
+}
